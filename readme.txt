@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/bastitee/weather-cologne-bonn-history
+Dieser Datensatz zeigt die Temperaturen der Stadt Bonn um 15.00 an zwischen den Jahren 2001 und 2021. In einer Spalte des Datensatz wird der Tag und die Uhrzeit angegeben und in der 2. Spalte die Temperatur in einer Dezimal zahl mit einer Nachkommazahl angegeben. 
+Es sind keine Personenbezogenen Daten. Der Ersteller dieses Datensatz hat keinerlei Beschränkungen für diese Daten eingesetzt. Man darf die Daten verändern, verwenden, weiterschicken und bearbeiten, ohne nach einer Erlaubnis fragen zu müssen. Dieser Datensatz hat kein Copyright. 
